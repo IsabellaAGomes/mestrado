@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<entailment-corpus>
+    <pair entailment="None" id="1" similarity="2.0">
+        <t>A gente faz o aporte financeiro, é como se a empresa fosse parceira do Monte Cristo.</t>
+        <h>Fernando Moraes afirma que não tem vínculo com o Monte Cristo além da parceira.</h>
+    </pair>
+    <pair entailment="None" id="2" similarity="2.25">
+        <t>Em 2013, a história de como Walt Disney convenceu P.L.</t>
+        <h>P.L.Travers era completamente contra a adaptação de Walt Disney.</h>
+    </pair>
+</entailment-corpus>
